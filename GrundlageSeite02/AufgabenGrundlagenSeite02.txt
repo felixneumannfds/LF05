@@ -1,0 +1,24 @@
+1. Aufgabe
+Ein Programm verlangt vom Anwender, dass er eine Zahl eingibt. Falls diese Zahl nicht negativ ist, soll das
+Programm die Quadratwurzel dieser Zahl berechnen und ausgeben. Wurde allerdings eine negative Zahl
+eingegeben, so darf nur die Fehlermeldung "Nicht lösbar!" ausgegeben werden. Nach Ausgabe der
+Quadratwurzel bzw. der Fehlermeldung wird das Programm beendet.
+Erstellen Sie ein Struktogramm sowie den Programmcode.7
+
+2. Aufgabe
+Für einen Händler wird ein Programm mit folgender Funktionalität benötigt: Am Ende eines Quartals gibt der
+Händler die letzten drei Monatsumsätze eines Kunden ein. Liegt der Gesamtumsatz (Summe der drei
+Monatsumsätze) bei mindestens 1000 €, so erhält der Kunde einen Bonus von 2 %. Andernfalls gibt es keinen
+Bonus.
+Der Gesamtumsatz und der Bonus (beide in €) sind auszugeben. Hier sind zwei beispielhafte Screenshots:
+a) Erstellen Sie für das Programm einen Programmablaufplan und ein Struktogramm. Die auf den ersten drei
+Zeilen der Screenshots zu sehenden Textausgaben ("Umsatz ...") dürfen entfallen.
+b) Erstellen Sie den Programmcode.
+
+3. Aufgabe
+Ein Programm soll die Anzahl der Urlaubstage
+von Beschäftigten ermitteln und ausgeben, als
+Grundlage soll der abgebildete Auszug aus der
+Betriebsvereinbarung dienen.
+a) Welche Eingaben sind notwendig?
+b) Erstellen Sie ein Struktogramm sowie den Programmcode

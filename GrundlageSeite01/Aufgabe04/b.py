@@ -14,3 +14,4 @@ else:
 if firstNum == secondNum or firstNum == thirdNum or secondNum == thirdNum:
     print("doubled number found, restart for an accurate output!")
 
+w
