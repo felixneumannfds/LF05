@@ -1,0 +1,2 @@
+Ein Programm soll nach Eingabe eines Kalenderjahres (z. B. 1984) prüfen, ob es sich um ein Schaltjahr 
+handelt oder nicht. Das Ergebnis wird in eindeutiger Form als Text ausgegeben.
