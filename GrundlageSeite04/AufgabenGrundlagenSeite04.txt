@@ -1,0 +1,7 @@
+Aufgabe 1
+Aus einer negativen Zahl kann keine Wurzel gezogen werden. Es wird ein Programm mit folgender
+Funktionalität benötigt: Nach der Eingabe einer Zahl wird geprüft, ob diese negativ ist. Falls ja, so soll die
+Meldung „Zahl darf nicht negativ sein“ ausgegeben werden und der Anwender muss erneut eine Zahl eingeben.
+Erst wenn die Zahl positiv oder Null ist, soll die Quadratwurzel aus dieser Zahl gezogen und ausgegeben
+werden.
+
