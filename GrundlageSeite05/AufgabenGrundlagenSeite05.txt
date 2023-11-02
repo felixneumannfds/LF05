@@ -1,0 +1,15 @@
+Zusatzaufgabe1
+
+Ein Programm soll die Geschwindigkeiten v in Abhängigkeit von der jeweiligen Höhe h berechnen und sowohl
+mit der Maßeinheit Meter pro Sekunde (m/s) als auch Kilometer pro Stunde (km/h) ausgeben. Die Ausgabe soll 
+in Form einer Tabelle erfolgen und immer mit der Höhe h = 0 beginnen. Nach dem Start des Programms gibt 
+der Anwender die maximale Höhe und die Schrittweite für die Höhe ein. Die Werte der Geschwindigkeiten sind 
+auf zwei Nachkommastellen zu runden. Erstellen Sie den Programmcode.
+
+
+Zusatzaufgabe2
+ Geschwindigkeiten v in Abhängigkeit von der jeweiligen Höhe h berechnen und sowohl
+mit der Maßeinheit Meter pro Sekunde (m/s) als auch Kilometer pro Stunde (km/h) ausgeben. Die Ausgabe soll
+in Form einer Tabelle erfolgen und immer mit der Höhe h = 0 beginnen. Nach dem Start des Programms gibt
+der Anwender die maximale Höhe und die Schrittweite für die Höhe ein. Die Werte der Geschwindigkeiten sind
+auf zwei Nachkommastellen zu runden. Erstellen Sie den Programmcode.
