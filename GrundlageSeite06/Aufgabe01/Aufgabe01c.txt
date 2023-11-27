@@ -1,0 +1,15 @@
+Aufgabe 1 c)
+
+
+while True:
+    zahl = int(input("Zahl eingeben: "))
+
+    if zahl < 10:
+        break
+print(zahl)
+
+
+wie in "b)" ist hier die Bedingung ein Boolean auf dem Status "True"
+Diesmal hat die Schleife jedoch eine Abbruchbedingung durch die Verzweigung (also das if-statement)
+sobald die eingegebene Zahl kleiner ist als 10, wird das programm abgebrochen und die eingabe "zahl" ausgegeben
+nach der Schleife

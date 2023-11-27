@@ -1,0 +1,19 @@
+Aufgabe1
+Gegeben sind 3 Programmausschnitte (Python). Erläutern Sie die Wirkung der Codezeilen
+
+
+
+Aufgabe 1 a)
+
+
+a = 1
+while a == 1:
+    print("hallo")
+
+Das a ist die Bedingung, die die Schleife benötigt um sich auszuführen, unterhalb eingerückt findet man
+das Ausgeführte während diese Bedingung zutrifft. In diesem Fall ist der Loop etwas unsauber, da kein Abbruch
+gegeben ist.
+Da "a" statisch ist, gibt das Programm unendlich lange "hallo" in der Console aus bis das Programm händisch abgebrochen
+wird.
+
+

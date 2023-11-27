@@ -1,0 +1,10 @@
+Aufgabe 1 b)
+
+
+while True:
+    print("hallo")
+
+Dieses Programm hat das selbige Verhalten wie in "a)", nur ist die Bedingung ein anderer Datentyp.
+In diesem Fall ist es ein Boolean. Auch hier wird keine Bedingung festgelegt, die True zu False ändern, weshalb der
+Loop solange "hallo" ausgibt, bis es händisch beendet wird.
+
