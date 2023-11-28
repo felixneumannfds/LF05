@@ -1,0 +1,4 @@
+Ein Programm soll die folgende vorweihnachtliche Pseudo-Graphik auf dem Bildschirm erzeugen. Die Höhe 
+des Weihnachtsbaums (Anzahl der Zeilen mit Sternchen) ist frei wählbar, somit verändert sich auch das 
+Aussehen in Abhängigkeit von der Höhe. Der Stamm (Großbuchstabe I) muss selbstverständlich immer in der 
+Mitte des Baumes sein. Erstellen Sie den Programmcode

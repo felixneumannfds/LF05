@@ -1,0 +1,3 @@
+Ein Programm soll Zeilen mit Sternchen ausgeben, die Anzahl der Zeilen gibt der Anwender nach dem
+Programmstart per Tastatur ein. Die Anzahl der Sternchen pro Zeile soll mit der Zeilennummer
+übereinstimmen. Also beispielsweise 2 Sternchen auf der 2. Zeile. Erstellen Sie den Programmcode.

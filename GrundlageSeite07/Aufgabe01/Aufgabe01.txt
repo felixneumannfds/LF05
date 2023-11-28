@@ -1,0 +1,10 @@
+1. Aufgabe
+Ein Programm soll Sternchen * ausgeben. Die Anzahl der Sternchen muss vorher vom Anwender eingegeben
+werden.
+a) Die Sternchen sollen untereinander ausgegeben werden. Erstellen Sie ein Struktogramm und den
+Programmcode.
+Beispiel: Es wurde als Anzahl der Wert 3 eingegeben. Ausgabe: *
+*
+*
+b) Der in a) erstellte Programmode ist zu verändern. Die Ausgabe der Sternchen erfolgt jetzt hintereinander.
+Beispiel: Es wurde als Anzahl der Wert 3 eingegeben. Ausgabe: ***
