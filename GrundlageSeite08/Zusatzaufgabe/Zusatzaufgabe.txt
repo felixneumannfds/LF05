@@ -1,0 +1,5 @@
+Die Zusatzaufgabe von Seite 7 (Pseudographik "Weihnachtsbaum") ist unter Berücksichtigung der 
+nachfolgenden Anforderungen zu erweitern: 
+An einem richtigen Weihnachtsbaum hängen Kugeln, welche in der Pseudographik durch den Buchstaben "O" 
+(oder "o") darstellbar sind. Die Anzahl der Kugeln ist von der Höhe des Weihnachtsbaums abhängig. Die 
+Position der Kugeln im Baum ist per Zufallsgenerator festzulegen
