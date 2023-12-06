@@ -1,9 +1,1 @@
-list = ["Rammstein::", "Alice Cooper", "Metallica", "Finntroll", "Nightwish"]
-index = 0
-while index < 5:
-    print(list[0+index])
-    index += 1
 
-
-print(len(list))
-print(
