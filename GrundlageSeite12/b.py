@@ -34,4 +34,4 @@ def hauptprogramm():
         print("Das Passwort erfüllt nicht alle Kriterien.")
 
 if __name__ == "__main__":
-    hauptprogram
+    hauptprogramm()
